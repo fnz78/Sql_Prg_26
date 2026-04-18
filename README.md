@@ -2,5 +2,3 @@
 Sql
 
 
-## Update
-Testing Pull Shark achievement.
