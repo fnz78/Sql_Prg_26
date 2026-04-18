@@ -1,0 +1,35 @@
+SELECT * FROM Students;
+
++--------------+-----------+
+| admission_no | stud_name |
++--------------+-----------+
+| 101          | arun      |
+| 102          | navya     |
+| 103          | sneha     |
++--------------+-----------+
+
+
+After ALTER:
+
+SELECT * FROM Students;
+
++--------------+-----------+-----------+
+| admission_no | stud_name | programme |
++--------------+-----------+-----------+
+| 101          | arun      | NULL      |
+| 102          | navya     | NULL      |
+| 103          | sneha     | NULL      |
++--------------+-----------+-----------+
+
+
+After UPDATE:
+
+SELECT * FROM Students;
+
++--------------+-----------+-----------+
+| admission_no | stud_name | programme |
++--------------+-----------+-----------+
+| 101          | arun      | BCA       |
+| 102          | navya     | BBA       |
+| 103          | sneha     | BSC CS    |
++--------------+-----------+-----------+
