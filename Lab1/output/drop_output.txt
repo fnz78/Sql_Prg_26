@@ -1,0 +1,6 @@
+ALTER TABLE Book DROP FOREIGN KEY fk_book_type;
+DROP TABLE Booktype;
+
+SELECT * FROM Booktype;
+
+ERROR 1146 (42S02): Table 'db1.Booktype' doesn't exist
