@@ -41,8 +41,4 @@ This folder contains query results and execution proof.
 - book_output.txt → Book details
 - bookissue_output.txt → Issued books
 
-## 📸 Screenshots
-Located in `/screenshots` folder showing:
-- Table creation
-- Query execution
-- Constraint errors
+
