@@ -1,4 +1,4 @@
-# 📚 MySQL Library Management System (Lab Record)
+# 📚 MySQL DDL Commands(Lab Record)
 
 ## 📌 Overview
 This project is a MySQL-based Library Management System created as part of a college lab record.
@@ -30,3 +30,19 @@ It demonstrates:
 - One Member → Many Book Issues
 - One Book → Many Issues
 
+# 📊 Outputs
+
+This folder contains query results and execution proof.
+
+## 📁 Files
+
+- students_output.txt → Students table data
+- membership_output.txt → Membership records
+- book_output.txt → Book details
+- bookissue_output.txt → Issued books
+
+## 📸 Screenshots
+Located in `/screenshots` folder showing:
+- Table creation
+- Query execution
+- Constraint errors
