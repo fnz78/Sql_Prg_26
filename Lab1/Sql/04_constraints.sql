@@ -12,12 +12,6 @@ CHECK(type_id>=1000 AND type_id<=9999);
 
 
 
-
-
-
-
-
-
 -- Book CHECK constraint
 
 INSERT INTO Book VALUES (999,'AI','jane doe',1002);
