@@ -93,32 +93,6 @@ DROP TABLE Booktype;
 
 ---
 
-## 📂 Project Structure
-
-```
-library-ddl-lab/
-│
-├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_insert_data.sql
-│   ├── 03_alter_queries.sql
-│   ├── 04_constraints.sql
-│   ├── 05_drop_table.sql
-│
-├── output/
-│   ├── students_output.txt
-│   ├── membership_output.txt
-│   ├── book_output.txt
-│   ├── booktype_output.txt
-│   ├── bookissue_output.txt
-│   ├── constraints_output.txt
-│   ├── drop_output.txt
-│
-└── README.md
-```
-
----
-
 ## 📸 Sample Outputs
 
 ### Students Table
