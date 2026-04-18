@@ -1,0 +1,9 @@
+SELECT * FROM Booktype;
+
++---------+---------+
+| type_id | type    |
++---------+---------+
+| 1001    | Fiction |
+| 1002    | Science |
+| 1003    | History |
++---------+---------+
