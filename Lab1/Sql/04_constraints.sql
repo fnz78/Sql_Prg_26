@@ -10,24 +10,3 @@ ALTER TABLE Booktype
 ADD CONSTRAINT chk_type_id 
 CHECK(type_id>=1000 AND type_id<=9999);
 
-
-
--- Book CHECK constraint
-
-INSERT INTO Book VALUES (999,'AI','jane doe',1002);
-
-ERROR 3819 (HY000): Check constraint 'chk_book_id' is violated.
-
-
--- Membership CHECK constraint
-
-INSERT INTO Membership VALUES (12,4);
-
-ERROR 3819 (HY000): Check constraint 'chk_member_id' is violated.
-
-
--- Booktype CHECK constraint
-
-INSERT INTO Booktype VALUES (899,'history');
-
-ERROR 3819 (HY000): Check constraint 'chk_type_id' is violated.
