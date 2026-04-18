@@ -1,7 +1,0 @@
-ERROR 3819 (HY000): Check constraint 'chk_book_id' is violated.
-
-ERROR 3819 (HY000): Check constraint 'chk_member_id' is violated.
-
-ERROR 3819 (HY000): Check constraint 'chk_type_id' is violated.
-
-ERROR 1146 (42S02): Table 'db1.Booktype' doesn't exist

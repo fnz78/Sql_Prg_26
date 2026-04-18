@@ -1,2 +1,0 @@
-CREATE DATABASE db1;
-USE db1;
