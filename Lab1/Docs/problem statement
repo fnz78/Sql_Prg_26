@@ -1,0 +1,8 @@
+
+1. Create the above tables and provide appropriate integrity constraints and insert few records 
+to the tables.
+2. Add a column “programme” to the Student table.
+3. Modify the column width of book_name and author of Book relation.
+4. Include constraints to check the book_id, member_id and type_id are entered a 4 digit 
+number ( Check constraint)
+5. Drop the BookType table. 
