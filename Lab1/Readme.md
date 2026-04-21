@@ -1,6 +1,6 @@
 # SQL DDL Lab - Library Management System 
 
-## 🎯 Objective
+##  Objective
 
 To understand and implement **DDL (Data Definition Language)** commands and **integrity constraints** using SQL.
 
