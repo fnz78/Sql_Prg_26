@@ -1,5 +1,5 @@
 # 🔢 MySQL Prime Number Generator
-
+---
 A MySQL stored procedure that:
 - Generates all prime numbers below a given number
 - Counts the total number of prime numbers
