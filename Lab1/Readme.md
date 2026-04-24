@@ -1,4 +1,4 @@
-# SQL DDL Lab - Library Management System 
+# SQL DDL Lab  - Library Management System 
 
 ##  Objective
 
