@@ -247,11 +247,11 @@ CREATE TRIGGER update_stock_after_sale ...
 ## Academic Purpose
 This repository is created as part of my Master of Science in Computer Science (MSc CS) academic laboratory work.
 It represents hands-on practice in:
-Database Design
-SQL Query Writing
-Data Manipulation
-Query Optimization
-Stored Programming
+- Database Design
+- SQL Query Writing
+- Data Manipulation
+- Query Optimization
+- Stored Programming
 Trigger Automation
 Database Normalization
 ER Modeling
