@@ -1,5 +1,5 @@
 
-# SQL Programming Lab
+# mysql-lab-collection
 
 ## Overview
 
@@ -199,30 +199,44 @@ sql-lab-programs/
 ```
 How to Run
 1️⃣ Clone Repository
+```
 Bash
 git clone https://github.com/yourusername/sql-lab-programs.git
+```
+
 2️⃣ Open MySQL
+```
 Bash
 mysql -u root -p
+```
+
 3️⃣ Create Database
+```
 SQL
 CREATE DATABASE sql_lab;
 USE sql_lab;
+```
+
 4️⃣ Run SQL Files
+```
 SQL
 SOURCE lab01.sql;
 SOURCE lab02.sql;
 SOURCE lab03.sql;
-...
+```
+```
 SOURCE lab12.sql;
 Or simply execute the SQL queries in:
 MySQL Workbench
 phpMyAdmin
 PostgreSQL
 SQLite (with minor syntax changes)
-Sample SQL Operations
-SQL
+
 ```
+
+Sample SQL Operations
+```
+SQL
 INSERT INTO Employee VALUES (...);
 
 SELECT * FROM Employee;
@@ -252,15 +266,12 @@ It represents hands-on practice in:
 - Data Manipulation
 - Query Optimization
 - Stored Programming
-Trigger Automation
-Database Normalization
-ER Modeling
-Database Administration Basics
+- Trigger Automation
+-  Database Normalization
+- ER Modeling
+- Database Administration Basics
 
 ## Author
 Fnz78
-MSc Computer Science Student
-SQL Lab Coursework Repository
-
 ## License
 This repository is created for educational and learning purposes.
