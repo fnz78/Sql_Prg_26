@@ -205,27 +205,23 @@ git clone https://github.com/yourusername/sql-lab-programs.git
 ```
 
 2️⃣ Open MySQL
-```
-Bash
+```Bash
 mysql -u root -p
 ```
 
 3️⃣ Create Database
-```
-SQL
+```SQL
 CREATE DATABASE sql_lab;
 USE sql_lab;
 ```
 
 4️⃣ Run SQL Files
-```
-SQL
+```SQL
 SOURCE lab01.sql;
 SOURCE lab02.sql;
 SOURCE lab03.sql;
 ```
-```
-SOURCE lab12.sql;
+```SOURCE lab12.sql;
 Or simply execute the SQL queries in:
 MySQL Workbench
 phpMyAdmin
@@ -235,8 +231,7 @@ SQLite (with minor syntax changes)
 ```
 
 Sample SQL Operations
-```
-SQL
+```SQL
 INSERT INTO Employee VALUES (...);
 
 SELECT * FROM Employee;
