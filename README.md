@@ -180,6 +180,7 @@ These schemas demonstrate real-world database relationships such as:
 ## Repository Structure
 
 ```bash
+
 sql-lab-programs/
 │
 ├── Lab-01-Database-Creation/
@@ -199,8 +200,7 @@ sql-lab-programs/
 ```
 How to Run
 1️⃣ Clone Repository
-```
-Bash
+```Bash
 git clone https://github.com/yourusername/sql-lab-programs.git
 ```
 
