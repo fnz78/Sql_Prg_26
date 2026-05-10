@@ -1,4 +1,3 @@
-
 # mysql-lab-collection
 
 ## Overview
