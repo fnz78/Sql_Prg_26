@@ -1,7 +1,6 @@
 # mysql-lab-collection
 
 ## Overview
-
 This repository contains a collection of **SQL laboratory exercises** completed during my university coursework while pursuing **MSc Computer Science**.
 
 The lab work focuses on **Database Management Systems (DBMS)** concepts and practical implementation using **SQL**. These exercises helped me understand relational database design, query execution, data manipulation, advanced SQL programming, database automation, and normalization techniques.
