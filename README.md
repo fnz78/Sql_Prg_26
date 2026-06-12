@@ -1,4 +1,5 @@
 # mysql-lab-collection
+
 ## Overview
 This repository contains a collection of **SQL laboratory exercises** completed during my university coursework while pursuing **MSc Computer Science**.
 
